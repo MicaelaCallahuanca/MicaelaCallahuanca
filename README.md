@@ -1,5 +1,7 @@
 # ¡Hola👋!, un gusto 😁. Me llamo Micaela 😊
 
+<img src= 'banner_Mica.gif'>
+
 <!--
 **MicaelaCallahuanca/MicaelaCallahuanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
