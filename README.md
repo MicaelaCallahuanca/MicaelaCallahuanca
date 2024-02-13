@@ -1,4 +1,4 @@
-# ¡Hola👋!, un gusto 😁. Me llamo Micaela 😊
+<h1 align=center>¡Hola👋!, un gusto 😁. Me llamo Micaela 😊</h1>
 
 <img src= 'banner_Mica.gif'>
 
