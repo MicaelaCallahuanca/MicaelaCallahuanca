@@ -1,5 +1,5 @@
 
-<img src="banner.gif">
+<img src="banner_Micaela.gif">
 
 ---
 
