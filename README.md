@@ -19,8 +19,21 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<!--
 <img align="left" alt="React" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+-->
 <br />
+
+### Sobre mí 👩‍💻
+
+Iniciando en el mundo de la tecnología en busca de ingresar al mundo laboral IT, me capacité como Data Sciences pero mi pasión por los datos hicieron que me especialice por el análisis de datos. 
+
+Mi pasión por el aprendizaje y la curiosidad me motivan a seguir explorando nuevas tecnologías y herramientas que me permitan resolver problemas, aportar soluciones creativas y generar valor. Disfruto de los desafíos y de trabajar en equipo.
+
+Estoy ampliando mis habilidades en servicios de la nube en AWS y Data Analytics, donde estoy aprendiendo a manejar los servicios de la nube en AWS y refuerzo/aprendo conocimientos sobre el análisis de datos.
+
+Estoy abierta a oportunidades en el mundo del análisis de datos o trabajos similares. Si buscas un perfil apasionado y comprometido contactame 📌📧 micaelacallahuanca@gmail.com y estaremos hablando.
+
 <!--
 **MicaelaCallahuanca/MicaelaCallahuanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
