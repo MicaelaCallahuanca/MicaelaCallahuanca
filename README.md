@@ -28,7 +28,7 @@ Me capacité como Data Sciences pero mi entusiasmo por los datos hicieron que me
 
 Mi gusto por el aprendizaje y la curiosidad que empecé a tener me motivaron a seguir explorando nuevas tecnologías y herramientas que me permitan resolver problemas, aportar soluciones creativas y generar valor. Disfruto de los desafíos y de trabajar en equipo.
 
-Estoy ampliando mis habilidades en servicios de la nube en AWS y Data Analytics, donde estoy aprendiendo a manejar los servicios de la nube en AWS y refuerzo/aprendo conocimientos sobre el análisis de datos.
+Estoy ampliando mis habilidades en las nubes, como AWS y GCP, donde aprendo a manejar sus servicios y refuerzo/aprendo conocimientos sobre el análisis de datos.
 
 Estoy abierta a oportunidades en el mundo del análisis de datos o trabajos similares. Si buscas un perfil comprometido contactame 📌📧 micaelacallahuanca@gmail.com y estaremos hablando.
 
