@@ -1,48 +1,82 @@
+<div align="center">
 
-<img src="banner_Micaela.gif">
+![banner](https://res.cloudinary.com/micac/image/upload/f_auto/banner1_udfxdc.jpg)
 
 ---
 
-### Lenguajes y Herramientas
+[![linkedin](https://img.shields.io/badge/linkedin-793EAB?style=for-the-badge&logo=linkedin&logoColor=793EAB&color=793EAB&labelColor=000000)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-793EAB?style=for-the-badge&logo=ko-fi&logoColor=793EAB&color=793EAB&labelColor=000000)](https://katherineoelsner.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-793EAB?style=for-the-badge&logo=gmail&logoColor=793EAB&color=793EAB&labelColor=000000)](mailto:tuemail@gmail.com)
+[![Pinterest](https://img.shields.io/badge/Pinterest-793EAB?style=for-the-badge&logo=Pinterest&logoColor=793EAB&color=793EAB&labelColor=000000)](https://pinterest.com/)
+</div>
+<br>
+<div align="center">
 
-<img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:30px;" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-<img align="left" alt="PowerBI" width="25px" style="padding-right:25px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Postgresql" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="MongoBD" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="GCP" width="50px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+## **👤 About Me**
 
-----
+---
 
-## 📌Sobre mí 👩‍💻
+</div>
 
-Me capacité como Data Science pero mi entusiasmo por los datos hicieron que me vaya por el análisis de datos. 
+<div align="left">
+  <p>
+    <img align="right" src="https://res.cloudinary.com/micac/image/upload/f_auto/Cosmic_Dreams__Opalescent_Water_in_Space_c22iuw.jpg" width="250" style="border-radius: 12px; margin-left: 20px;"/>
+    Hi, my name is Micaela. I’m a Data Engineer with a background in SEO and Digital Marketing. I’m pursuing a Bachelor’s degree in Data Science at the University of Buenos Aires (UBA) and continuously training in various tools and technologies. I also work on projects that help solve potential business needs.
+  </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
 
-Mi gusto por el aprendizaje y la curiosidad que empecé a tener me motivaron a seguir explorando nuevas tecnologías y herramientas que me permitan resolver problemas, aportar soluciones creativas y generar valor. Disfruto de los desafíos y de trabajar en equipo.
+<br>
+<br>
+<br>
+<br>
 
-Estoy ampliando mis habilidades en las nubes, como AWS y GCP, donde aprendo a manejar sus servicios y refuerzo/aprendo conocimientos sobre el análisis de datos.
+<div align="center">
 
-Si buscas un perfil comprometido contactame 📌📧 micaelacallahuanca@gmail.com y estaremos hablando.
+## **🛠️ Technologies**
 
-<!--
-**MicaelaCallahuanca/MicaelaCallahuanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![SQL](https://img.shields.io/badge/SQL-793EAB?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-793EAB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-793EAB?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-793EAB?style=for-the-badge&logo=powerbi&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-793EAB?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-793EAB?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-793EAB?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-793EAB?style=for-the-badge&logo=apachespark&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<div align="center">
+
+## **📈 Statistics**
+
+---
+
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicaelaCallahuanca&show_icons=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MicaelaCallahuanca&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=MicaelaCallahuanca&theme=tokyo-night">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MicaelaCallahuanca&theme=tokyo-night" width="100%"/>
+</a>
+</div>
+
