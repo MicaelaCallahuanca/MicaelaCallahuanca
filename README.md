@@ -21,7 +21,11 @@
 <div align="left">
   <p>
     <img align="right" src="https://res.cloudinary.com/micac/image/upload/f_auto/Cosmic_Dreams__Opalescent_Water_in_Space_c22iuw.jpg" width="250" style="border-radius: 12px; margin-left: 20px;"/>
-    Hi, my name is Micaela. I’m a Data Engineer with a background in SEO and Digital Marketing. I’m pursuing a Bachelor’s degree in Data Science at the University of Buenos Aires (UBA) and continuously training in various tools and technologies. I also work on projects that help solve potential business needs.
+    Hi! I'm Micaela, a AI Engineer & Digital Analytics Specialist with a strong foundation in tracking, data pipelines, SEO, and marketing analytics.
+
+I'm currently pursuing a Bachelor’s degree in Data Science at the University of Buenos Aires (UBA) and continuously expanding my skills in data engineering, analytics, and cloud technologies.
+
+I enjoy building solutions that transform raw digital data into actionable insights with GA4 + GTM setups, SQL/BigQuery pipelines, or dashboards that guide decision-making. My projects focus on solving business problems related to measurement, performance, and digital behavior.
   </p>
 <br>
 <br>
